@@ -1,0 +1,43 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "window.zoomLevel": -3,
+  "window.menuBarVisibility": "toggle",
+  "window.title": "${dirty}${activeEditorShort}$/${rootName}",
+  "editor.wordWrapColumn": 80,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.lineHeight": 19,
+  "editor.fontSize": 15,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.insertSpaces": true,
+  "editor.renderLineHighlight": "all",
+  "editor.fontFamily": "Lucida Console",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "editor.minimap.enabled": false,
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.sideBar.location": "right",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#f86d6d",
+    "editor.background": "#3831329f",
+    "editor.lineHighlightBackground": "#3a3d3a",
+    "editorError.border": "#e40e0e",
+    "scrollbarSlider.background": "#553246"
+  },
+  "emmet.variables": {
+    "lang": "ja"
+  },
+  "php.executablePath": "C:\\xampp\\php\\php.exe",
+  "php-cs-fixer.executablePath": "C:\\Users\\haru\\.vscode\\vendor\\bin\\php-cs-fixer.phar",
+  "php-cs-fixer.rules": "@PSR2",
+  "php-cs-fixer.formatHtml": true,
+  "php-cs-fixer.onsave": true,
+  "php-cs-fixer.executablePathWindows": "C:\\Users\\haru\\.vscode\\vendor\\bin\\php-cs-fixer.bat",
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSaveTimeout": 5000,
+  "terminal.integrated.rendererType": "dom",
+  "php-cs-fixer.allowRisky": true
+}
